@@ -35,5 +35,5 @@ describe('ProductTracklisting', () => {
       since('Your `li` selector doesn\'t have a `line-height` property that\'s equal to `30px`.').expect(liRule.style['line-height']).toBe('30px');
     }
   }));
-  
+
 });
