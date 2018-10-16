@@ -1,8 +1,6 @@
-# Build An Album Store Product Page With Angular
+# AlbumStore
 
-This repo contains the code for the Pluralsight Project "Build An Album Store Product Page With Angular," located here: https://app.pluralsight.com/projects/build-an-album-store-product-page-with-angular/
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Development server
 
@@ -19,8 +17,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-We've also created scripts that correspond to each part of the Pluralsight Project that you can access by running `npm run test:partN`, where `N` is any number 2-7.
 
 ## Running end-to-end tests
 
